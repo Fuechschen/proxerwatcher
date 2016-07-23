@@ -1,0 +1,14 @@
+{
+  "name": "proxer-watcher",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "cron": "^1.1.0",
+    "ioredis": "^2.2.0",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7",
+    "request": "^2.74.0",
+    "sequelize": "^3.23.6",
+    "storyboard": "^2.0.1"
+  }
+}
